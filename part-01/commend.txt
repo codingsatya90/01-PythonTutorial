@@ -1,0 +1,2 @@
+cd part-01 -change path
+run--->python file_name.py--python first.py
